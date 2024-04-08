@@ -1,10 +1,10 @@
-
-import './App.css'
+import Accordian from "./components/accordian"
 
 function App() {
   return (
     <>
-      <h1>hey</h1>
+    {/* {Accordian}  component */}
+    <Accordian/>
     </>
   )
 }
